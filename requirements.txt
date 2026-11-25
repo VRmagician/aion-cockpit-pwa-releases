@@ -1,0 +1,4 @@
+aiohttp>=3.9.0
+cryptography>=44.0.0
+aiomqtt>=2.0.0,<3
+pillow>=10.0.0
